@@ -8,7 +8,7 @@ This practice project involves setting up an AWS infrastructure and deploying th
 - **VPC CIDR:** `172.16.0.0/16`
 - **Public Subnet CIDR:** `172.16.1.0/24`
 - **Internet Gateway (IGW):** Attach to VPC
-- **Network ACL (NACL):** Control inbound/outbound traffic
+- **Network ACL (NACL):**  Control inbound/outbound traffic
 - **Route Table:** Configure for public access via IGW
 
 ### 2️⃣ **EC2 Instance Setup**
